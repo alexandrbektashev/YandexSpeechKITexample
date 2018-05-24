@@ -16,6 +16,6 @@ python program for speech recognition through Yandex SpeechKit cloud
    
 3. Запустить speechrecognition.py 
   
-  $python speechrecognition.py <file>
+  $python speechrecognition.py название_файла.wav
   
 В проекте есть тестовые аудиозаписи. На них можно проеврить работу программы.
